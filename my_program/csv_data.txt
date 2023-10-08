@@ -1,0 +1,5 @@
+name,age,university,degree
+Kunj,25,Sal,Information Technology
+Jay,65,Oxford,Computer Science
+Priyanka,45,Mit,B.S.C in Computer
+Vasu,32,Sal,Computer Science
